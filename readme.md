@@ -71,7 +71,3 @@ Dropbox : https://www.dropbox.com/s/6aslqcokpljha5j/fr_2_10.dat?dl=0
      <img src="./asserts/1.jpg"  />
      <img src="./asserts/2.jpg"  />
 </div>
-
-欢迎开发者加入 SeetaFace QQ交流群
-
-![QR](./asserts/QQ.png)
