@@ -1,4 +1,4 @@
-# **face recognition api(两行逻辑代码完成人脸识别)**
+# **seetaFace python api(两行逻辑代码完成人脸识别)**
 
 ## 1. 简介
 
